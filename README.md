@@ -39,9 +39,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente cursan
 
 <br> 
 
-<p align="center">
+<!--<p align="center">
   <img src="https://komarev.com/ghpvc/?username=tulioxyzz&style=flat-square&color=blue&label=tulioxyz" alt="visits"/>
-</p>
+</p>-->
 
 
 
