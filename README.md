@@ -16,7 +16,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente cursan
 
 <div style="display: flex;" align=center>
   <img height="180em"src="https://github-readme-stats.vercel.app/api?username=tulioxyz&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulioxyz&layout=compact&theme=dark&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulioxyz&theme=dark&count_private=true">
 </div>
 
 <br><br>
