@@ -14,9 +14,16 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente cursan
 
 <br>
 
+<div align=center>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tulioxyz&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tulioxyz&theme=dark)
+
+</div>
+
 <div style="display: flex;" align=center>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tulioxyz&show_icons=true&theme=dark&include_all_commits=true<&count_private=false">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulioxyz&theme=dark&count_private=true">
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tulioxyz&show_icons=true&theme=dark&include_all_commits=true<&count_private=false">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulioxyz&theme=dark&count_private=true">-->
 </div>
 
 <br><br>
