@@ -4,13 +4,13 @@
   <a href="mailto:tuliorodriguessilva123@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <!--<a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/túlio-rodrigues-857843352" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>-->
+  </a>
 </p>
 
 ## Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente cursando o 2° período. Tenho paixão por programação, desenvolvimento de sistemas e resolução de problemas. Busco aprender continuamente, aprimorar minhas habilidades e contribuir com projetos práticos, tanto acadêmicos quanto pessoais.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente cursando o 3° período. Tenho paixão por programação, desenvolvimento de sistemas e resolução de problemas. Busco aprender continuamente, aprimorar minhas habilidades e contribuir com projetos práticos, tanto acadêmicos quanto pessoais.
 
 <br>
 
