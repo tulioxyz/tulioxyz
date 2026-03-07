@@ -16,8 +16,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente cursan
 
 <div align=center>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tulioxyz&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tulioxyz&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tulioxyz&theme=dark&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tulioxyz&theme=dark&count_private=true)
 
 </div>
 
