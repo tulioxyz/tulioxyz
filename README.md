@@ -23,8 +23,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente cursan
 
 <br><br>
 
-<h3 align="center">🌐 Frontend</h3>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
   <img width="12" />
@@ -33,12 +31,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente cursan
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" />
+  
   <img width="12" />
-</div>
-
-<h3 align="center">⚙️ Backend</h3>
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" />
@@ -52,12 +46,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente cursan
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" />
+  
   <img width="12" />
-</div>
-
-<h3 align="center">🛠️ Ferramentas & IDEs</h3>
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
