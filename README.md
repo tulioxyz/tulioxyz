@@ -10,7 +10,8 @@
 </p>
 
 ## Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente cursando o 3° período. Tenho paixão por programação, desenvolvimento de sistemas e resolução de problemas. Busco aprender continuamente, aprimorar minhas habilidades e contribuir com projetos práticos, tanto acadêmicos quanto pessoais.
+
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), atualmente cursando o 4° período. Tenho paixão por programação, desenvolvimento de sistemas e resolução de problemas. Busco aprender continuamente, aprimorar minhas habilidades e contribuir com projetos práticos, tanto acadêmicos quanto pessoais.
 
 <br>
 
